@@ -133,7 +133,7 @@ def approval():
   id = "-".join(uuid)
   try:
     def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
+	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov','r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/Evil0786/Pathannawab/blob/main/appoval.txt").text
